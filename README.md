@@ -19,6 +19,10 @@ The pipeline automates:
 4. PostgreSQL 15 (database)
 5. Docker & Docker Compose (containerization)
 
+## Dataset:
+
+[visit Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv)
+
 
 ## Structure of the project:
 ```bash
@@ -41,7 +45,7 @@ The pipeline automates:
 
 1. Clone the repository:
 ```shell
-git clone <your_repo_url>
+git clone https://github.com/harshavardhanmanne1/ag-pst-devops-driven-data-ingestion.git
 cd ag-pst-devops-driven-data-ingestion
 ```
 2.  Create .env File:
